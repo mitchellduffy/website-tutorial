@@ -412,4 +412,7 @@
 
   </profiles>
 
+  <modules>
+    <module>gogreen</module>
+  </modules>
 </project>
